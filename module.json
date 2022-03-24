@@ -1,0 +1,26 @@
+{
+    "name": "scabard-foundryvtt",
+    "title": "Scabard Integration",
+    "description": "<p>A module to integrate <a href=\"https://scabard.com\" title=\"Scabard\" target=\"_blank\">Scabard</a> with Foundry Virtual Tabletop.</p>",
+    "author": "programmingdad",
+    "authors": [],
+    "url": "https://github.com/professorx00/scabard_foundryvtt",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.7.6",
+    "compatibleCoreVersion": "9",
+    "scripts": [
+        "init.js"
+    ],
+    "esmodules": [
+    ],
+    "styles": [
+    ],
+    "languages": [
+    ],
+    "packs": [],
+    "system": [],
+    "dependencies": [],
+    "manifest": "",
+    "download": ""
+}
+  
