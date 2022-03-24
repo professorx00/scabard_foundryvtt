@@ -5,22 +5,16 @@
     "author": "programmingdad",
     "authors": [],
     "url": "https://github.com/professorx00/scabard_foundryvtt",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "minimumCoreVersion": "0.7.6",
-    "compatibleCoreVersion": "9",
+    "compatibleCoreVersion": "9.0.0",
     "scripts": [
         "init.js"
-    ],
-    "esmodules": [
-    ],
-    "styles": [
-    ],
-    "languages": [
     ],
     "packs": [],
     "system": [],
     "dependencies": [],
-    "manifest": "https://github.com/professorx00/scabard_foundryvtt/releases/download/0.0.2/module.json",
-    "download": "https://github.com/professorx00/scabard_foundryvtt/releases/download/0.0.2/scabard_foundryvtt.zip"
+    "manifest": "https://github.com/professorx00/scabard_foundryvtt/releases/download/0.0.3/module.json",
+    "download": "https://github.com/professorx00/scabard_foundryvtt/releases/download/0.0.3/scabard_foundryvtt.zip"
 }
   
